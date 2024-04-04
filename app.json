@@ -1,7 +1,7 @@
 {
-    "name": "⦓ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐑𝐄𝐅𝐙 𝐌𝐔𝐒𝐈𝐂🜪 ⦔",
+    "name": "⦓ ᥉᥆ᥙᖇᥴᥱ ᥉ᥱძƚɦ᥆ꪀ ⦔",
     "description": "تنصيب بوتات الاغاني  للتشغيل في المكالمات الصوتية",
-    "logo": "https://graph.org/file/6e4359dc87a11152d5951.jpg",
+    "logo": "https://telegra.ph/file/8673237ea2693a274380c.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -32,7 +32,7 @@
         "required": true
       },
       "SESSION": {
-        "description": "ضـع جلسة البايروجرام احصل عليها من هنا @SESION_REFZ_BOT",
+        "description": "ضـع جلسة البايروجرام احصل عليها ",
         "value": "",
         "required": true
       },
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/rev_fxx",
+        "value": "https://t.me/sedthon_help",
         "required": false
       }
     },
